@@ -198,6 +198,11 @@
   ],
   "blog": [  
     {
+      "title": "마루 3",
+      "image": "images/maru3.png",
+      "url": "https://blog.naver.com/0062dmstn/224013388955"
+    },
+    {
       "title": "헬로키티 4",
       "image": "images/hellokitty4.png",
       "url": "https://blog.naver.com/0062dmstn/223967637913"
