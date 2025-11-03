@@ -10,6 +10,16 @@
       "image": "images/crooked_pink.png",
       "url": "https://play.google.com/store/apps/details?id=com.tistory.es1015.kakao.theme.crooked.pink"
     },
+ {
+      "title": "삐뚤빼뚤 아이보리 카톡테마",
+      "image": "images/crooked_ivory.png",
+      "url": "https://play.google.com/store/apps/details?id=com.tistory.es1015.kakao.theme.crooked.ivory"
+    },
+    {
+      "title": "삐뚤빼뚤 노랑 카톡테마",
+      "image": "images/crooked_yellow.png",
+      "url": "https://play.google.com/store/apps/details?id=com.tistory.es1015.kakao.theme.crooked.yellow"
+    },
     {
       "title": "삐뚤빼뚤 연두 카톡테마",
       "image": "images/crooked_lightgreen.png",
@@ -21,9 +31,34 @@
       "url": "https://play.google.com/store/apps/details?id=com.tistory.es1015.kakao.theme.crooked.sky"
     },
     {
+      "title": "삐뚤빼뚤 파랑 카톡테마",
+      "image": "images/crooked_blue.png",
+      "url": "https://play.google.com/store/apps/details?id=com.tistory.es1015.kakao.theme.crooked.blue"
+    },
+    {
+      "title": "삐뚤빼뚤 보라 카톡테마",
+      "image": "images/crooked_purple.png",
+      "url": "https://play.google.com/store/apps/details?id=com.tistory.es1015.kakao.theme.crooked.purple"
+    },
+    {
+      "title": "삐뚤빼뚤 그레이 카톡테마",
+      "image": "images/crooked_gray.png",
+      "url": "https://play.google.com/store/apps/details?id=com.tistory.es1015.kakao.theme.crooked.gray"
+    },    
+{
+      "title": "삐뚤빼뚤 다크그레이 카톡테마",
+      "image": "images/crooked_darkgray.png",
+      "url": "https://play.google.com/store/apps/details?id=com.tistory.es1015.kakao.theme.crooked.darkgray"
+    },
+    {
       "title": "삐뚤빼뚤 체리쥬빌레 카톡테마",
       "image": "images/crooked_lavender.png",
       "url": "https://play.google.com/store/apps/details?id=com.tistory.es1015.kakao.theme.crooked.cherryjubilee"
+    },
+    {
+      "title": "삐뚤빼뚤 네이비 카톡테마",
+      "image": "images/crooked_navy.png",
+      "url": "https://blog.naver.com/0062dmstn/223783192532"
     },
     {
       "title": "삐뚤빼뚤 네이비2 카톡테마",
@@ -34,6 +69,11 @@
       "title": "삐뚤빼뚤 블랙 카톡테마",
       "image": "images/crooked_black.png",
       "url": "https://play.google.com/store/apps/details?id=com.tistory.es1015.kakao.theme.crooked.black"
+    },
+    {
+      "title": "삐뚤빼뚤 올블랙 카톡테마",
+      "image": "images/crooked_allblack.png",
+      "url": "https://play.google.com/store/apps/details?id=com.tistory.es1015.kakao.theme.crooked.allblack"
     },
     {
       "title": "삐뚤빼뚤 파스텔하늘 카톡테마",
