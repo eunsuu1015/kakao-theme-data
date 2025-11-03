@@ -1,5 +1,20 @@
 {
   "playstore": [
+ {
+      "title": "맑은 하늘 카톡테마",
+      "image": "images/sky_bluesky.jpg",
+      "url": "https://play.google.com/store/apps/details?id=com.tistory.es1015.kakao.theme.bluesky"
+    },
+ {
+      "title": "흐린 하늘 카톡테마",
+      "image": "images/sky_graysky.png",
+      "url": "https://play.google.com/store/apps/details?id=com.tistory.es1015.kakao.theme.graysky"
+    },
+ {
+      "title": "물든 하늘 카톡테마",
+      "image": "images/sky_sunsetsky.jpg",
+      "url": "https://play.google.com/store/apps/details?id=com.tistory.es1015.kakao.theme.sunsetsky"
+    },
     {
       "title": "삐뚤빼뚤 화이트 카톡테마",
       "image": "images/crooked_white.png",
@@ -49,6 +64,11 @@
       "title": "삐뚤빼뚤 다크그레이 카톡테마",
       "image": "images/crooked_darkgray.png",
       "url": "https://play.google.com/store/apps/details?id=com.tistory.es1015.kakao.theme.crooked.darkgray"
+    },
+    {
+      "title": "삐뚤빼뚤 그린 카톡테마",
+      "image": "images/crooked_green.png",
+      "url": "https://play.google.com/store/apps/details?id=com.tistory.es1015.kakao.theme.crooked.green"
     },
     {
       "title": "삐뚤빼뚤 체리쥬빌레 카톡테마",
