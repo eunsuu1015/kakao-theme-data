@@ -1,6 +1,16 @@
 {
   "playstore": [
  {
+      "title": "삐뚤빼뚤3 솜사탕 카톡테마",
+      "image": "images/crooked_cottoncandy.png",
+      "url": "https://play.google.com/store/apps/details?id=com.tistory.es1015.kakao.theme.crooked.cottoncandy"
+    },
+ {
+      "title": "삐뚤빼뚤 베이직 카톡테마",
+      "image": "images/crooked_basic.png",
+      "url": "https://play.google.com/store/apps/details?id=com.tistory.es1015.kakao.theme.crooked.basic"
+    },
+ {
       "title": "맑은 하늘 카톡테마",
       "image": "images/sky_bluesky.jpg",
       "url": "https://play.google.com/store/apps/details?id=com.tistory.es1015.kakao.theme.bluesky"
