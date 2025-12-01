@@ -1,5 +1,17 @@
 {
   "playstore": [
+  
+ {
+      "title": "삐뚤빼뚤3 가을 카톡테마",
+      "image": "images/crooked_autumn.png",
+      "url": "https://play.google.com/store/apps/details?id=com.tistory.es1015.kakao.theme.crooked3.autumn"
+    },
+    
+ {
+      "title": "삐뚤빼뚤3 보이스톡 카톡테마",
+      "image": "images/crooked_voicetalk.png",
+      "url": "https://play.google.com/store/apps/details?id=com.tistory.es1015.kakao.theme.crooked3.voicetalk"
+    },
  {
       "title": "삐뚤빼뚤3 솜사탕 카톡테마",
       "image": "images/crooked_cottoncandy.png",
