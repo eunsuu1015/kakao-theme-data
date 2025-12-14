@@ -240,6 +240,21 @@
   ],
   "blog": [  
     {
+      "title": "마이멜로디 카페 1",
+      "image": "images/mymelodycafe1.png",
+      "url": "https://blog.naver.com/0062dmstn/224105326782"
+    },
+    {
+      "title": "마이멜로디 카페 2",
+      "image": "images/mymelodycafe2.png,
+      "url": "https://blog.naver.com/0062dmstn/224105326782"
+    },
+    {
+      "title": "마이멜로디 카페 3",
+      "image": "images/mymelodycafe3.png",
+      "url": "https://blog.naver.com/0062dmstn/224105326782"
+    },
+    {
       "title": "한교동과 춘식이 1",
       "image": "images/hangyodonchoonsik1.png",
       "url": "https://blog.naver.com/0062dmstn/224013388955"
