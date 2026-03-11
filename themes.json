@@ -1,6 +1,10 @@
 {
   "playstore": [
-  
+   {
+      "title": "삐뚤빼뚤 딥 퍼플 카톡테마",
+      "image": "images/crooked_deep_purple.png",
+      "url": "https://play.google.com/store/apps/details?id=com.tistory.es1015.kakao.theme.crooked.deep_purple"
+    },
  {
       "title": "삐뚤빼뚤3 가을 카톡테마",
       "image": "images/crooked_autumn.png",
