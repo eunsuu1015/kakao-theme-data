@@ -259,6 +259,17 @@
   ],
   "blog": [  
     {
+      "title": "딸기 망곰 2",
+      "image": "images/mangom_strawberry2.png",
+      "url": "https://blog.naver.com/0062dmstn/224229537197"
+    },
+    {
+      "title": "딸기 망곰 1",
+      "image": "images/mangom_strawberry1.png",
+      "url": "https://blog.naver.com/0062dmstn/224229079843"
+    },
+
+    {
       "title": "천사 망곰 3",
       "image": "images/mangom_angel3.png",
       "url": "https://blog.naver.com/0062dmstn/224181311078"
