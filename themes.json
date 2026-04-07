@@ -1,6 +1,11 @@
 {
   "playstore": [  
 {
+      "title": "어두운 밤 테마 (오늘의 밤)",
+      "image": "images/todaysnight_dark.png",
+      "url": "https://play.google.com/store/apps/details?id=com.tistory.es1015.kakao.theme.todaysnight.dark"
+    },
+{
       "title": "물든 밤 테마 (오늘의 밤)",
       "image": "images/todaysnight_dyed.png",
       "url": "https://play.google.com/store/apps/details?id=com.tistory.es1015.kakao.theme.todaysnight.dyed"
@@ -258,6 +263,22 @@
     }
   ],
   "blog": [  
+    {
+      "title": "개굴 망곰 3",
+      "image": "images/mangom_frog3.png",
+      "url": "https://blog.naver.com/0062dmstn/224241801686"
+    },
+    {
+      "title": "개굴 망곰 2",
+      "image": "images/mangom_frog2.png",
+      "url": "https://blog.naver.com/0062dmstn/224241799016"
+    },
+    {
+      "title": "개굴 망곰 1",
+      "image": "images/mangom_frog1.png",
+      "url": "https://blog.naver.com/0062dmstn/224241796196"
+    },
+
     {
       "title": "딸기 망곰 2",
       "image": "images/mangom_strawberry2.png",
