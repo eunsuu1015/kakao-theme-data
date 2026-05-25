@@ -1,6 +1,52 @@
 {
   "playstore": [  
 {
+      "title": "동글동글 연빨강 테마",
+      "image": "images/round_lightred.png",
+      "url": "https://play.google.com/store/apps/details?id=com.tistory.es1015.kakao.theme.round.lightred"
+    },
+{
+      "title": "동글동글 연노랑 테마",
+      "image": "images/round_lightyellow.png",
+      "url": "https://play.google.com/store/apps/details?id=com.tistory.es1015.kakao.theme.round.lightyellow"
+    },
+{
+      "title": "동글동글 연두 테마",
+      "image": "images/round_lightgreen.png",
+      "url": "https://play.google.com/store/apps/details?id=com.tistory.es1015.kakao.theme.round.lightgreen"
+    },
+{
+      "title": "동글동글 연파랑 테마",
+      "image": "images/round_lightblue.png",
+      "url": "https://play.google.com/store/apps/details?id=com.tistory.es1015.kakao.theme.round.lightblue"
+    },
+{
+      "title": "동글동글 연분홍 테마",
+      "image": "images/round_lightpink.png",
+      "url": "https://play.google.com/store/apps/details?id=com.tistory.es1015.kakao.theme.round.lightpink"
+    },
+
+
+
+{
+      "title": "벚꽃 3 테마",
+      "image": "images/cherryblossoms_3.png",
+      "url": "https://play.google.com/store/apps/details?id=com.tistory.es1015.kakao.theme.cherryblossoms.blossoms3"
+    },
+{
+      "title": "벚꽃 2 테마",
+      "image": "images/cherryblossoms_2.png",
+      "url": "https://play.google.com/store/apps/details?id=com.tistory.es1015.kakao.theme.cherryblossoms.blossoms2"
+    },
+{
+      "title": "벚꽃 1 테마",
+      "image": "images/cherryblossoms_1.jpg",
+      "url": "https://play.google.com/store/apps/details?id=com.tistory.es1015.kakao.theme.cherryblossoms.blossoms1"
+    },
+
+
+
+{
       "title": "어두운 밤 테마 (오늘의 밤)",
       "image": "images/todaysnight_dark.png",
       "url": "https://play.google.com/store/apps/details?id=com.tistory.es1015.kakao.theme.todaysnight.dark"
@@ -262,7 +308,29 @@
       "url": "https://play.google.com/store/apps/details?id=com.tistory.es1015.kakao.theme.purple.sky.square"
     }
   ],
+
+
+
+
+
   "blog": [  
+    {
+      "title": "치이카와 1",
+      "image": "images/chiikawa_chiikawa1.png",
+      "url": "https://blog.naver.com/0062dmstn/224241801686"
+    },
+    {
+      "title": "하치와레 1",
+      "image": "images/chiikawa_hachiware1.png",
+      "url": "https://blog.naver.com/0062dmstn/224241799016"
+    },
+    {
+      "title": "우사기 1",
+      "image": "images/chiikawa_usagi1.png",
+      "url": "https://blog.naver.com/0062dmstn/224241796196"
+    },
+
+
     {
       "title": "개굴 망곰 3",
       "image": "images/mangom_frog3.png",
