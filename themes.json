@@ -1,6 +1,45 @@
 {
   "playstore": [  
 {
+      "title": "반네온 5 테마",
+      "image": "images/halfneon5.png",
+      "url": "https://play.google.com/store/apps/details?id=com.tistory.es1015.kakao.theme.halfneon.greenblue"
+    },
+{
+      "title": "반네온 4 테마",
+      "image": "images/halfneon4.png",
+      "url": "https://play.google.com/store/apps/details?id=com.tistory.es1015.kakao.theme.halfneon.greenorange"
+    },
+{
+      "title": "반네온 3 테마",
+      "image": "images/halfneon3.png",
+      "url": "https://play.google.com/store/apps/details?id=com.tistory.es1015.kakao.theme.halfneon.yellowblue"
+    },
+{
+      "title": "반네온 2 테마",
+      "image": "images/halfneon2.png",
+      "url": "https://play.google.com/store/apps/details?id=com.tistory.es1015.kakao.theme.halfneon.yellowpink"
+    },
+{
+      "title": "반네온 1 테마",
+      "image": "images/halfneon1.png",
+      "url": "https://play.google.com/store/apps/details?id=com.tistory.es1015.kakao.theme.round.lightred"
+    },
+
+
+{
+      "title": "뭉게 하늘 테마 (오늘의 하늘)",
+      "image": "images/sky_fluffy.png",
+      "url": "https://play.google.com/store/apps/details?id=com.tistory.es1015.kakao.theme.todayssky.fluffy"
+    },
+
+{
+      "title": "삐뚤빼뚤 화이트앤블랙 테마",
+      "image": "images/crooked_whiteblack.png",
+      "url": "https://play.google.com/store/apps/details?id=com.tistory.es1015.kakao.theme.crooked.whiteblack"
+    },
+
+{
       "title": "동글동글 연빨강 테마",
       "image": "images/round_lightred.png",
       "url": "https://play.google.com/store/apps/details?id=com.tistory.es1015.kakao.theme.round.lightred"
@@ -315,10 +354,27 @@
 
   "blog": [  
     {
-      "title": "치이카와 1",
-      "image": "images/chiikawa_chiikawa1.png",
-      "url": "https://blog.naver.com/0062dmstn/224285596383"
+      "title": "우땅이 1 라이트",
+      "image": "images/utang1.png",
+      "url": "https://blog.naver.com/0062dmstn/224354476301"
     },
+
+    {
+      "title": "우땅이 1 다크",
+      "image": "images/utang1dark.png",
+      "url": "https://blog.naver.com/0062dmstn/224354476301"
+    },
+    {
+      "title": "듀가나디 7",
+      "image": "images/ganadi7.png",
+      "url": "https://blog.naver.com/0062dmstn/224353427214"
+    },
+    {
+      "title": "듀가나디 6",
+      "image": "images/ganadi6.png",
+      "url": "https://blog.naver.com/0062dmstn/224351162474"
+    },
+
     {
       "title": "하치와레 1",
       "image": "images/chiikawa_hachiware1.png",
