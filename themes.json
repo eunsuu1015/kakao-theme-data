@@ -347,6 +347,36 @@
 
 
   "blog": [  
+ {
+      "title": "망그러진햄터 1",
+      "image": "images/mangom_hamter1.png",
+      "url": "https://blog.naver.com/0062dmstn/224375504231"
+    },  
+    {
+      "title": "리센느 조타",
+      "image": "images/rescene_jota.png",
+      "url": "https://blog.naver.com/0062dmstn/224373114345"
+    },  
+    {
+      "title": "리센느 밍",
+      "image": "images/rescene_ming.png",
+      "url": "https://blog.naver.com/0062dmstn/224373114345"
+    },  
+    {
+      "title": "리센느 리뿌",
+      "image": "images/rescene_rebbu.png",
+      "url": "https://blog.naver.com/0062dmstn/224373114345"
+    },  
+    {
+      "title": "리센느 얌",
+      "image": "images/rescene_yam.png",
+      "url": "https://blog.naver.com/0062dmstn/224373114345"
+    },  
+    {
+      "title": "리센느 쩨로밍",
+      "image": "images/rescene_zzeroming.png",
+      "url": "https://blog.naver.com/0062dmstn/224373114345"
+    },
     {
       "title": "우땅이 1 라이트",
       "image": "images/utang1.png",
