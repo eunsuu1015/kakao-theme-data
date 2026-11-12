@@ -1,6 +1,55 @@
 {
   "playstore": [  
 {
+      "title": "시트 화이트 테마",
+      "image": "images/sheet_white.png",
+      "url": "https://play.google.com/store/apps/details?id=com.tistory.es1015.kakao.theme.sheet.white"
+    },
+{
+      "title": "시트 파스텔복숭아 테마",
+      "image": "images/halfneon5.png",
+      "url": "https://play.google.com/store/apps/details?id=com.tistory.es1015.kakao.theme.sheet.sheet_pastelpeach"
+    },
+{
+      "title": "시트 연보라 테마",
+      "image": "images/sheet_lightpurple.png",
+      "url": "https://play.google.com/store/apps/details?id=com.tistory.es1015.kakao.theme.sheet.lightpurple"
+    },
+{
+      "title": "시트 블랙 테마",
+      "image": "images/sheet_black.png",
+      "url": "https://play.google.com/store/apps/details?id=com.tistory.es1015.kakao.theme.sheet.black"
+    },
+{
+      "title": "시트 초록 테마",
+      "image": "images/sheet_green.png",
+      "url": "https://play.google.com/store/apps/details?id=com.tistory.es1015.kakao.theme.sheet.green"
+    },
+{
+      "title": "시트 파랑 테마",
+      "image": "images/sheet_blue.png",
+      "url": "https://play.google.com/store/apps/details?id=com.tistory.es1015.kakao.theme.sheet.blue"
+    },
+{
+      "title": "Brown Check 테마",
+      "image": "images/brown_check.png",
+      "url": "https://play.google.com/store/apps/details?id=com.tistory.es1015.kakao.theme.halfneon.greenblue"
+    },
+{
+      "title": "자개 테마",
+      "image": "images/nacre.png",
+      "url": "https://play.google.com/store/apps/details?id=com.tistory.es1015.kakao.theme.etc.nacre"
+    },
+{
+      "title": "고요한 강 테마",
+      "image": "images/image_calmriverside.png",
+      "url": "https://play.google.com/store/apps/details?id=com.tistory.es1015.kakao.theme.image.calmriverside"
+    },
+
+
+
+    
+{
       "title": "반네온 5 테마",
       "image": "images/halfneon5.png",
       "url": "https://play.google.com/store/apps/details?id=com.tistory.es1015.kakao.theme.halfneon.greenblue"
@@ -346,5 +395,307 @@
 
 
 
-  "blog": [ ]
+  "blog": [       
+ {
+      "title": "먼작귀 갑옷시사",
+      "image": "images/chiikawa_shisa.png",
+      "url": "https://blog.naver.com/0062dmstn"
+    },     
+ {
+      "title": "먼작귀 모몽가",
+      "image": "images/chiikawa_momonga.png",
+      "url": "https://blog.naver.com/0062dmstn/"
+    },     
+ {
+      "title": "먼작귀 할로윈 3종",
+      "image": "images/chiikawa_halloween.png",
+      "url": "https://blog.naver.com/0062dmstn/"
+    },     
+ {
+      "title": "롭이어 우사기 3종",
+      "image": "images/chiikawa_usagi_lop.png",
+      "url": "https://blog.naver.com/0062dmstn/"
+    },   
+ {
+      "title": "먼작귀 인어섬2 7종",
+      "image": "images/chiikawa_mermaid2.png",
+      "url": "https://blog.naver.com/0062dmstn/"
+    },   
+ {
+      "title": "먼작귀 인어섬 5종",
+      "image": "images/chiikawa_mermaid1.png",
+      "url": "https://blog.naver.com/0062dmstn/"
+    },   
+ {
+      "title": "태닝 포차코",
+      "image": "images/pochacco_tanning1.png",
+      "url": "https://blog.naver.com/0062dmstn/"
+    },  
+ {
+      "title": "태닝 눈멍이 1~3",
+      "image": "images/snowdog_tanning.png",
+      "url": "https://blog.naver.com/0062dmstn/"
+    },  
+ {
+      "title": "망그러진햄터 1",
+      "image": "images/mangom_hamter1.png",
+      "url": "https://blog.naver.com/0062dmstn/"
+    },  
+    {
+      "title": "리센느 조타",
+      "image": "images/rescene_jota.png",
+      "url": "https://blog.naver.com/0062dmstn/"
+    },  
+    {
+      "title": "리센느 밍",
+      "image": "images/rescene_ming.png",
+      "url": "https://blog.naver.com/0062dmstn/"
+    },  
+    {
+      "title": "리센느 리뿌",
+      "image": "images/rescene_rebbu.png",
+      "url": "https://blog.naver.com/0062dmstn/"
+    },  
+    {
+      "title": "리센느 얌",
+      "image": "images/rescene_yam.png",
+      "url": "https://blog.naver.com/0062dmstn/"
+    },  
+    {
+      "title": "리센느 쩨로밍",
+      "image": "images/rescene_zzeroming.png",
+      "url": "https://blog.naver.com/0062dmstn/"
+    },
+    {
+      "title": "우땅이 1 라이트",
+      "image": "images/utang1.png",
+      "url": "https://blog.naver.com/0062dmstn/"
+    },
+
+    {
+      "title": "우땅이 1 다크",
+      "image": "images/utang1dark.png",
+      "url": "https://blog.naver.com/0062dmstn/"
+    },
+    {
+      "title": "듀가나디 7",
+      "image": "images/ganadi7.png",
+      "url": "https://blog.naver.com/0062dmstn/"
+    },
+    {
+      "title": "듀가나디 6",
+      "image": "images/ganadi6.png",
+      "url": "https://blog.naver.com/0062dmstn/"
+    },
+
+    {
+      "title": "하치와레 1",
+      "image": "images/chiikawa_hachiware1.png",
+      "url": "https://blog.naver.com/0062dmstn/"
+    },
+    {
+      "title": "우사기 1",
+      "image": "images/chiikawa_usagi1.png",
+      "url": "https://blog.naver.com/0062dmstn/"
+    },
+
+
+    {
+      "title": "개굴 망곰 3",
+      "image": "images/mangom_frog3.png",
+      "url": "https://blog.naver.com/0062dmstn/"
+    },
+    {
+      "title": "개굴 망곰 2",
+      "image": "images/mangom_frog2.png",
+      "url": "https://blog.naver.com/0062dmstn/"
+    },
+    {
+      "title": "개굴 망곰 1",
+      "image": "images/mangom_frog1.png",
+      "url": "https://blog.naver.com/0062dmstn/"
+    },
+
+    {
+      "title": "딸기 망곰 2",
+      "image": "images/mangom_strawberry2.png",
+      "url": "https://blog.naver.com/0062dmstn/"
+    },
+    {
+      "title": "딸기 망곰 1",
+      "image": "images/mangom_strawberry1.png",
+      "url": "https://blog.naver.com/0062dmstn/"
+    },
+
+    {
+      "title": "천사 망곰 3",
+      "image": "images/mangom_angel3.png",
+      "url": "https://blog.naver.com/0062dmstn/"
+    },
+    {
+      "title": "천사 망곰 2",
+      "image": "images/mangom_angel2.png",
+      "url": "https://blog.naver.com/0062dmstn/"
+    },
+    {
+      "title": "천사 망곰 1",
+      "image": "images/mangom_angel1.png",
+      "url": "https://blog.naver.com/0062dmstn/"
+    },
+    {
+      "title": "마이멜로디 카페 3",
+      "image": "images/mymelodycafe3.png",
+      "url": "https://blog.naver.com/0062dmstn/"
+    },
+    {
+      "title": "마이멜로디 카페 2",
+      "image": "images/mymelodycafe2.png",
+      "url": "https://blog.naver.com/0062dmstn/"
+    },
+    {
+      "title": "마이멜로디 카페 1",
+      "image": "images/mymelodycafe1.png",
+      "url": "https://blog.naver.com/0062dmstn/"
+    },
+    {
+      "title": "한교동과 춘식이 2",
+      "image": "images/hangyodonchoonsik2.png",
+      "url": "https://blog.naver.com/0062dmstn/"
+    },
+    {
+      "title": "한교동과 춘식이 1",
+      "image": "images/hangyodonchoonsik1.png",
+      "url": "https://blog.naver.com/0062dmstn/"
+    },
+    {
+      "title": "마루 3",
+      "image": "images/maru3.png",
+      "url": "https://blog.naver.com/0062dmstn/"
+    },
+    {
+      "title": "헬로키티 4",
+      "image": "images/hellokitty4.png",
+      "url": "https://blog.naver.com/0062dmstn/"
+    },
+    {
+      "title": "헬로키티 3",
+      "image": "images/hellokitty3.png",
+      "url": "https://blog.naver.com/0062dmstn/"
+    },
+    {
+      "title": "헬로키티 2",
+      "image": "images/hellokitty2.png",
+      "url": "https://blog.naver.com/0062dmstn/"
+    },
+    {
+      "title": "헬로키티 1",
+      "image": "images/hellokitty1.png",
+      "url": "https://blog.naver.com/0062dmstn/"
+    },
+    {
+      "title": "잔망루피 2",
+      "image": "images/zanmangloopy2.png",
+      "url": "https://blog.naver.com/0062dmstn/"
+    },
+    {
+      "title": "듀...가나디 5",
+      "image": "images/ganadi5.png",
+      "url": "https://blog.naver.com/0062dmstn/"
+    },
+    {
+      "title": "프랑켄슈타인 춘식이",
+      "image": "images/choonsik_frankenstein.png",
+      "url": "https://blog.naver.com/0062dmstn/"
+    },
+    {
+      "title": "듀...가나디 4",
+      "image": "images/ganadi4.png",
+      "url": "https://blog.naver.com/0062dmstn/"
+    },
+    {
+      "title": "듀...가나디 3",
+      "image": "images/ganadi3.png",
+      "url": "https://blog.naver.com/0062dmstn/"
+    },
+    {
+      "title": "듀...가나디 2",
+      "image": "images/ganadi2.png",
+      "url": "https://blog.naver.com/0062dmstn/"
+    },
+    {
+      "title": "듀...가나디 1",
+      "image": "images/ganadi1.png",
+      "url": "https://blog.naver.com/0062dmstn/"
+    },
+    {
+      "title": "마루 2",
+      "image": "images/maru2.png",
+      "url": "https://blog.naver.com/0062dmstn/"
+    },
+    {
+      "title": "마루 1",
+      "image": "images/maru1.png",
+      "url": "https://blog.naver.com/0062dmstn/"
+    },
+    {
+      "title": "아깽 춘식 8",
+      "image": "images/choonsik_baby8.png",
+      "url": "https://blog.naver.com/0062dmstn/"
+    },
+    {
+      "title": "아깽 춘식 7",
+      "image": "images/choonsik_baby7.png",
+      "url": "https://blog.naver.com/0062dmstn/"
+    },
+    {
+      "title": "아깽 춘식 6",
+      "image": "images/choonsik_baby6.png",
+      "url": "https://blog.naver.com/0062dmstn/"
+    },
+    {
+      "title": "아깽 춘식 5",
+      "image": "images/choonsik_baby5.png",
+      "url": "https://blog.naver.com/0062dmstn/"
+    },
+    {
+      "title": "아깽 춘식 4",
+      "image": "images/choonsik_baby4.png",
+      "url": "https://blog.naver.com/0062dmstn/"
+    },
+    {
+      "title": "아깽 춘식 3",
+      "image": "images/choonsik_baby3.png",
+      "url": "https://blog.naver.com/0062dmstn/"
+    },
+    {
+      "title": "아깽 춘식 2",
+      "image": "images/choonsik_baby2.png",
+      "url": "https://blog.naver.com/0062dmstn/"
+    },
+    {
+      "title": "아깽 춘식 1",
+      "image": "images/choonsik_baby1.png",
+      "url": "https://blog.naver.com/0062dmstn/"
+    },
+    {
+      "title": "감자 망곰 다크모드",
+      "image": "images/mangom_potato_dark.png",
+      "url": "https://blog.naver.com/0062dmstn/"
+    },
+    {
+      "title": "잔망루피 1",
+      "image": "images/zanmangloopy1.png",
+      "url": "https://blog.naver.com/0062dmstn/"
+    },
+    {
+      "title": "감자 망곰",
+      "image": "images/mangom_potato.png",
+      "url": "https://blog.naver.com/0062dmstn/"
+    },
+    {
+      "title": "러블리 어피치 1~10",
+      "image": "images/lovelyapeach.png",
+      "url": "https://blog.naver.com/0062dmstn/"
+    }
+    ]
 }
